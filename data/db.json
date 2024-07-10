@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "my first post ",
+      "datetime": "February 05, 2024 10:39:07 PM",
+      "body": "this is my first post "
+    },
+    {
+      "id": "3",
+      "title": "my third post",
+      "datetime": "February 05, 2024 10:40:21 PM",
+      "body": "this my thuiddfn;js"
+    },
+    {
+      "id": "4",
+      "title": "lajdgiad",
+      "datetime": "February 05, 2024 10:40:29 PM",
+      "body": "dfsdffsfd"
+    },
+    {
+      "id": "5",
+      "title": "asdasda",
+      "datetime": "February 08, 2024 10:00:23 PM",
+      "body": "asdasdadad"
+    },
+    {
+      "id": "51",
+      "title": "real madrid",
+      "datetime": "May 12, 2024 11:33:26 PM",
+      "body": "ay khararaaaabsdasaaaaa"
+    }
+  ]
+}
